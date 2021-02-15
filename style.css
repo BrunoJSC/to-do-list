@@ -1,0 +1,11 @@
+body {
+  background: rgb(37, 156, 177);
+}
+
+.container {
+  margin: 50px auto;
+  max-width: 640px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 15px;
+}
